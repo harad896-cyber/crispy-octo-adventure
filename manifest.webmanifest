@@ -1,0 +1,15 @@
+{
+  "name": "بازار آنلاین | Bazaar Online",
+  "short_name": "بازار آنلاین",
+  "description": "فروشگاه اینترنتی چندفروشندگی",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f4",
+  "theme_color": "#175b4b",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
